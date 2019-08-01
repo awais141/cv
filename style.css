@@ -1,0 +1,131 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+#a{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.b{
+  height: 100px;
+  width: 200px;
+  position: absolute;
+  top: 50px;
+  left: 250px;
+}
+.c{
+  width: 100%;
+  height: 100px;
+  background-color: #ff4c68;
+  text-align: center;
+  line-height: 80px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #fff;
+}
+.d{
+  width: 300px;
+  height: 80px;
+  background-color: #293462;
+  position: relative;
+  top: 30px;
+  text-align: center;
+  color: #fff;
+  line-height: 70px;
+}
+.p{
+width: 400px;
+height: 200px;
+position: relative;
+left: 350px;
+top: 50px;
+font-family: sans-serif;
+}
+.e{
+  width: 400px;
+  height: 50px;
+  background-color: #61234e;
+  text-align: center;
+  position: relative;
+  line-height: 50px;
+  left: 35%;
+  top: 60px;
+color: #fff;
+font-family: sans-serif;
+}
+.f{
+  padding-top: 50px;
+  width: 600px;
+  height: 150px;
+
+  position: relative;
+  top: 100px;
+  line-height: 30px;
+  left: 60px;
+ font-family: sans-serif;
+}
+.g{
+  width: 500px;
+  height: 20px;
+  background-color: red;
+  position: absolute;
+  top: 80px;
+  left: 100px;
+  border-radius: 70px;
+  text-align: center;
+  color: #fff;
+  line-height: 20px;
+}
+
+.hh{
+  width: 300px;
+  height: 20px;
+
+  position: absolute;
+  top: 130px;
+  left: 100px;
+  border-radius: 70px;
+  background-color: darkcyan;
+  text-align: center;
+  color: #fff;
+  line-height: 20px;
+}
+.i{
+  height: 80px;
+  width: 400px;
+  background-color: #ff5858;
+  position: relative;
+  top: 100px;
+  line-height: 80px;
+  text-align: center;
+  font-family: sans-serif;
+  left: 35%;
+  color: #fff;
+}
+.j{
+  height: 50px;
+  width: 300px;
+  position: relative;
+  top: 150px;
+  left: 35%;
+  font-family: sans-serif;
+}
+#k{
+  position: absolute;
+  left: 80px;
+}
+#l{
+  position: absolute;
+  left: 100px;
+}
+.m{
+  position: absolute;
+  top: 1250px;
+}
+.c:hover{
+  text-shadow: 2px 2px 7px #000;
+}
+.d:hover{
+    text-shadow: 2px 2px 7px #000;
+}
